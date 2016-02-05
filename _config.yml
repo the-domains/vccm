@@ -1,0 +1,28 @@
+name: Vintage Computer Club Malta
+favicon: null
+layout_spectrum: 0.7649445403367281
+typography_spectrum: 0.7736070272512734
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3037859827745706
+  lightness: 0.0409665247425437
+  saturation: 0.44792778487317264
+  rhythmicContrast: 0.8856145662721246
+purpose: []
