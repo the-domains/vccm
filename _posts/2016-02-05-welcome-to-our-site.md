@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-06T15:50:08.569Z'
-dateModified: '2016-02-06T15:50:06.303Z'
+datePublished: '2016-02-06T15:55:53.068Z'
+dateModified: '2016-02-06T15:55:43.923Z'
 title: Welcome to our Site
 author: []
 sourcePath: _posts/2016-02-05-welcome-to-our-site.md
@@ -22,7 +22,8 @@ url: welcome-to-our-site/index.html
 _type: Article
 
 ---
-[History][0][Latest Photo Events][0]
+* [History][0]
+* [Latest Events][1]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83d07fc2-f7e9-47f6-8820-95e516368708.jpg)
 
 _****Welcome to the New Vintage Computer Club Website. Our Mission is to preserve computer technology, share
@@ -32,3 +33,4 @@ students a key-place where to get information needed in order to understand
 better the computer's world. ****_
 
 [0]: https://thegrid.ai/vccm/eb4e9b4b-39e6-4dc7-965f-c4a5fddb76e9/
+[1]: https://thegrid.ai/vccm/e2c07ead-8bbb-4f26-a3ff-ceae7b3e3113/
