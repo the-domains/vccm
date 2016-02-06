@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-05T23:23:46.048Z'
-dateModified: '2016-02-05T22:45:54.093Z'
+datePublished: '2016-02-06T15:50:08.569Z'
+dateModified: '2016-02-06T15:50:06.303Z'
 title: Welcome to our Site
 author: []
 sourcePath: _posts/2016-02-05-welcome-to-our-site.md
@@ -22,6 +22,7 @@ url: welcome-to-our-site/index.html
 _type: Article
 
 ---
+[History][0][Latest Photo Events][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83d07fc2-f7e9-47f6-8820-95e516368708.jpg)
 
 _****Welcome to the New Vintage Computer Club Website. Our Mission is to preserve computer technology, share
@@ -29,3 +30,5 @@ information and open a computer museum in Malta, which would offer information
 to the general public regarding vintage computers. The museum would offer
 students a key-place where to get information needed in order to understand
 better the computer's world. ****_
+
+[0]: https://thegrid.ai/vccm/eb4e9b4b-39e6-4dc7-965f-c4a5fddb76e9/
