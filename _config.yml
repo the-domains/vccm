@@ -1,6 +1,6 @@
 name: Vintage Computer Club Malta
 favicon: null
-layout_spectrum: 0.41644
+layout_spectrum: 0.28997
 typography_spectrum: 1
 title: Vintage Computer Club Malta (VCCM)
 cta:
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#0f0a07'
-    - '#665a4e'
-    - '#96938a'
-    - '#5efefe'
-  brandStrength: 0.25
+    - '#060902'
+    - '#6a6562'
+    - '#b39e83'
+    - '#fefefa'
+    - '#f9d571'
+  brandStrength: 0.125
   lightness: 0.3125
   saturation: 0.25
   rhythmicContrast: 0.25
